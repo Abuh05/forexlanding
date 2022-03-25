@@ -12044,7 +12044,7 @@ section.cta:before {
     height: 8vh;
     font-size: 20px;
     margin-bottom: 1rem;
-    margin-right: 10rem;
+    margin-right: 0rem;
     transition: transform 0.5s;
   }
 }
